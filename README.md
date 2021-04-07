@@ -84,7 +84,7 @@
 </details>
 
 
-<h3>A quick laugh 😁</h3>
+<b>A quick laugh 😁</b>
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400px">
 
 	
@@ -102,7 +102,7 @@
 
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="480">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
