@@ -86,9 +86,9 @@
 
 <details>
 <summary><b>Have a quick laugh 😁</b><summary> 
-Refresh the page to see another meme
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400px">
 </details>
+	
 <details>
 <summary><b> Some Statistics Fun </b></summary>
 <img src='https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
