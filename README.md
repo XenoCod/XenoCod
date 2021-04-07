@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/XenoCod?tab=repositories](Github)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/XenoCod?tab=repositories)
 
 - 💬 Ask me about **Football ⚽**
 
