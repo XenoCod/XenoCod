@@ -1,6 +1,6 @@
 # XenoCod
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-# Aditya Singh&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# I'm Aditya Singh&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <h3 align="left">A Frontend developer & a Backend Noob😎</h3>
 
 <p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓..</p>
@@ -18,7 +18,7 @@
 
 - 🚀 App development experience in **Android**
 
-- ⏳ **Data Analysis** using **Python** modules 
+- ⏳ Worked as a **Data Analyst** Intern at **HighRadius Corporation**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/XenoCod?tab=repositories)
 
@@ -90,10 +90,13 @@
 <br>
 
 
+😂 A quick laugh
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenocod" alt="xenocod" /></a> </p>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&locale=en" alt="xenocod" /></p>
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&theme=gotham" alt="XenoCod" />
 
 
