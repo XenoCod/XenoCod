@@ -83,9 +83,10 @@
 </p>
 </details>
 
-
-<b>A quick laugh 😁</b>
+<p align="left">
+<h3>A quick laugh 😁</h3>
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400px">
+</p>
 
 	
 <details>
