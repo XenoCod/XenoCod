@@ -3,10 +3,6 @@
 <h2 align="left">I'm Aditya Singh</h2>
 <h3 align="left">A Frontend developer & a Backend Noob😎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xenocod&label=Profile%20views&color=0e75b6&style=flat" alt="xenocod" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenocod" alt="xenocod" /></a> </p>
-
 <p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓..</p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
@@ -30,7 +26,9 @@
 
 - 📫 How to reach me **adityakrsingh1999@gmail.com**
 
-- ⚡ Fun fact **there are 10 types of people in this world, those who understand binary and those who don't**
+- ⚡ Fun fact: **There are 10 types of people in this world, those who understand binary and those who don't.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xenocod&label=Profile%20views&color=0e75b6&style=flat" alt="xenocod" /> </p>
 
 <h3 align="left">📢 Find me elsewhere</h3>
 <p align="left">
@@ -42,7 +40,7 @@
 <a href="https://www.hackerearth.com/@adityakrsingh1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="http://www.hackerearth.com/@adityakrsingh1999" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Tech Stack 👩‍💻</h3>
+<h2 align="left"> 👩‍💻 My Tech Stack </h2>
 <p align="left"> 
 	<h3 align="left">Programming Languages</h3>
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/> </a> 
@@ -87,6 +85,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&locale=en" alt="xenocod" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenocod" alt="xenocod" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenocod&" alt="xenocod" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&locale=en" alt="xenocod" /></p>
+
+
