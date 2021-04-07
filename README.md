@@ -94,7 +94,7 @@
 
 <details>
 <summary><b>Have a quick laugh 😁</b><summary> 
-<details> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400px"></details>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400px">
 </details>
 	
 <details>
