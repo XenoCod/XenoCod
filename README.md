@@ -1,10 +1,12 @@
 # XenoCod
 <h1 align="center">Hello World! 👋 I'm Aditya Singh</h1>
-<h3 align="center">A frontend developer & backend Noob from India 😎. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
+<h3 align="center">A frontend developer & backend Noob from India 😎.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenocod&label=Profile%20views&color=0e75b6&style=flat" alt="xenocod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenocod" alt="xenocod" /></a> </p>
+
+<p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓..</p>
 
 - 🔭 I’m currently working on **MERN Stack 🚀**
 
@@ -20,12 +22,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-singh-8430771a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aditya-singh-8430771a8/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/spy_ker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/spy_ker" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/adityakrsingh191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/adityakrsingh191" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/fallen_c0der" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/fallen_c0der" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/warrior_spirit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/warrior_spirit/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/http://www.hackerearth.com/@adityakrsingh1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="http://www.hackerearth.com/@adityakrsingh1999" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-singh-8430771a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aditya-singh-8430771a8/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/spy_ker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/spy_ker" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityakrsingh191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/adityakrsingh191" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/fallen_c0der" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/fallen_c0der" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/warrior_spirit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/warrior_spirit/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@adityakrsingh1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="http://www.hackerearth.com/@adityakrsingh1999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
