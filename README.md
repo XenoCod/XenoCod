@@ -1,5 +1,5 @@
 # XenoCod
-### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 # I'm Aditya Singh&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <h3 align="left">A Self taught Full Stack Developer 🕸</h3>
 
