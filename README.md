@@ -39,8 +39,9 @@
 <a href="https://www.leetcode.com/warrior_spirit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/warrior_spirit/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@adityakrsingh1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="http://www.hackerearth.com/@adityakrsingh1999" height="30" width="40" /></a>
 </p>
+
 <details>
-<summary><h2 align="left"> 👩‍💻 My Tech Stack </h2></summary>
+<summary><b> My Tech Stack 👨‍💻 </b></summary>
 <p align="left"> 
 	<h3 align="left">Programming Languages</h3>
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42px" height="42px" padding= "10px"/> </a> 
