@@ -1,13 +1,12 @@
 # XenoCod
-### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-# I'm Aditya Singh&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Earth.gif" width="24px">
+# I'm Aditya Singh&nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Hello_Big.gif" width="30px">
 <h3 align="left">A Self taught Full Stack Developer 🕸</h3>
 
 <p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓..</p>
 
 <img align="right" alt="GIF" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/techstack.gif" width="360px"/>
 
-	
 <h3>🧐 More about me: </h3>
 
 - 🔭 I’m currently working on **MERN Stack 🚀**
@@ -39,7 +38,6 @@
 <a href="https://www.leetcode.com/warrior_spirit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/warrior_spirit/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@adityakrsingh1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="http://www.hackerearth.com/@adityakrsingh1999" height="30" width="40" /></a>
 </p>
-
 
 <details>
 <summary><b> My Tech Stack 👨‍💻 </b></summary>
@@ -87,8 +85,6 @@
 </p>
 
 </details>
-
-
 
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
@@ -172,10 +168,6 @@
 </table>
 </details>
 
-
-
-
-	
 <details>
 <summary><b>Git Stats🤑</b></summary>
 <img src='https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
@@ -191,11 +183,7 @@
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="300px">
 </p>
 
-
-
 <br>
 <h5>Thanks for stopping by...</h5>
 <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
-
-
