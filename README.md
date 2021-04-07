@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Football ⚽, Fifa 🕹 & Man United 😈**
 
-- 📫 How to reach me **adityakrsingh1999@gmail.com**
+- 📫 Feel free to reach me: **adityakrsingh1999@gmail.com**
 
 - ⚡ Fun fact: **There are 10 types of people in this world, those who understand binary and those who don't.**
 
