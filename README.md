@@ -148,6 +148,11 @@
       <td>HTML, CSS</td>
       <td>A simple responsive Landing page for an Restaurent.</td>
     </tr>
+	 <tr>
+      <td>News Website</td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>A Responsive news website.</td>
+    </tr>
     <tr>
       <td>Notes Taking app</td>
       <td>HTML, CSS, Javascript</td>
