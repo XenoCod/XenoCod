@@ -118,7 +118,7 @@
     	</tr>
 	<tr>
       	<td><b>Expert at Chegg</a> </b></td>
-	<td><a href="https://www.chegg.com/" target="_blank" >Chegg India</a></td>
+	<td><a onclick="window.open(this.href,'_blank');return false;" href="https://www.chegg.com/" >Chegg India</a></td>
       	<td>Solving questions.</td>
       	<td>Dec 2019 - March 2020</td>
     	</tr>
