@@ -138,22 +138,27 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>School Library</td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>A Responsive web library app which keeps the logs of the books issued & return from the library.</td>
-    </tr>
+    	<tr>
+      	<td>School Library</td>
+      	<td>HTML, CSS, JavaScript</td>
+	<td>A Responsive web library app which keeps the logs of the books issued & return from the library.</td>
+    	</tr>
 	<tr>
-      <td>Restaurant Website</td>
-      <td>HTML, CSS</td>
-      <td>A simple responsive Landing page for an Restaurent.</td>
-    </tr>
+      	<td>COVID 19 Spread Map</td>
+      	<td>HTML, CSS, Javascript</td>
+      	<td>A website which displays the confirmed cases count all over the world.</td>
+   	 </tr>
+	<tr>
+      	<td>Restaurant Website</td>
+      	<td>HTML, CSS</td>
+      	<td>A simple responsive Landing page for an Restaurent.</td>
+    	</tr>
 	 <tr>
-      <td>News Website</td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>A Responsive news website.</td>
-    </tr>
-    <tr>
+      	<td>News Website</td>
+      	<td>HTML, CSS, JavaScript</td>
+      	<td>A Responsive news website that fetches top news based on the interest entered by the user.</td>
+    	</tr>
+    	<tr>
       <td>Notes Taking app</td>
       <td>HTML, CSS, Javascript</td>
       <td>A web app where user can make, modify notes with an additional Reminder functionality.</td>
@@ -165,7 +170,7 @@
     </tr>
     <tr>
       <td>Music Academy School website</td>
-      <td>HTML, CSS, JavaScript, Node.js, Express.js, MongoDB</td>
+      <td>HTML, CSS, JavaScript, Pug, Node.js, Express.js, MongoDB, Apache2</td>
       <td>A fully responsive end-to-end website where a user can browse through the website, open different pages & can apply for admisson in the School. </td>
     </tr>
   
