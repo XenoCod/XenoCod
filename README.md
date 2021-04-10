@@ -9,15 +9,17 @@
 
 <h3>🧐 More about me: </h3>
 
-- 🔭 I’m currently working on **MERN Stack 🚀**
+- 📚 Currently in ***Final year of B.Tech in Electronics & Electrical Engineering*** from ***KIIT University***, Odisha.(2017 - 2021)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🔭 I’m currently working on ***MERN Stack 🚀***
+
+- 🌱 I’m currently learning **Angular, TypeScript, Gatsby.Js, Next.Js & many many more😋...**
 
 - ☁ Exploring **Google Cloud** & **Microsoft Azure**
 
 - 🚀 App development experience in **Android**
 
-- ⏳ Worked as a **Data Analyst** Intern at **HighRadius Corporation**
+- ⏳ Worked as a **Data Analyst** Intern at ***HighRadius Corporation***
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/XenoCod?tab=repositories)
 
@@ -199,6 +201,7 @@
 <p align="left">
 <h5>A quick laugh 😁</h5>
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="300px">
+
 </p>
 
 <br>
