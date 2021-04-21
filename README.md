@@ -141,6 +141,12 @@
     </tr>
   </thead>
   <tbody>
+	   <tr>
+      	<td><a href= "https://xenocod.github.io/Restaurant-page/index.html" target="_blank">Restaurant Website</td>
+      	<td>HTML, CSS</td>
+      	<td>A simple responsive Landing page for an Restaurant.</td>
+	<td>⭐</td>
+    	</tr>
     	<tr>
       	<td>School Library</td>
       	<td>HTML, CSS, JavaScript</td>
@@ -153,16 +159,10 @@
       	<td>A website which displays the confirmed cases count all over the world.</td>
 	<td>⭐</td>
    	 </tr>
-	     <tr>
-      	<td><a href= "https://xenocod.github.io/JS-Calculator/" target="_blank">Calculator</td>
+	<tr>
+      	<td><a href= "https://xenocod.github.io/JS-Calculator/index.html" target="_blank">Calculator</td>
       	<td>HTML, CSS, JavaScript</td>
       	<td>A simple Calculator built using HTML, CSS, JavaScript.</td>
-	<td>⭐</td>
-    	</tr>
-	<tr>
-      	<td>Restaurant Website</td>
-      	<td>HTML, CSS</td>
-      	<td>A simple responsive Landing page for an Restaurent.</td>
 	<td>⭐⭐</td>
     	</tr>
 	<tr>
@@ -171,12 +171,24 @@
       	<td>A Responsive news website that fetches top news based on the interest entered by the user.</td>
 	<td>⭐⭐</td>
     	</tr>
+	  <tr>
+      <td><a href="https://xenocod.github.io/Cabbie-Cab/index.html" target="_blank">Cabbie-Cab</a></td>
+      <td>HTML, CSS, Javascript</td>
+      <td>A static Cab booking website which validates the information given by the user with built in regex and proceeds to book a cab accordingly.</td>
+	<td>⭐⭐</td>
+    </tr>
     	<tr>
-      <td>Notes Taking app</td>
+      <td><a href="https://xenocod.github.io/Note-taking-app/index.html" target="_blank">Notes Taking app</a></td>
       <td>HTML, CSS, Javascript</td>
       <td>A web app where user can make, modify notes with an additional Reminder functionality.</td>
-	<td>⭐⭐⭐</td>
+	<td>⭐⭐</td>
     </tr>
+	   <tr>
+      	<td><a href= "https://xenocod.github.io/Postman-Clone/index.html" target="_blank">Postman Clone</a></td>
+      	<td>HTML, CSS, JavaScript</td>
+      	<td>A app that is able to process GET and POST requests from the user.</td>
+	<td>⭐⭐⭐</td>
+    	</tr>
     <tr>
       <td>Emoji app</td>
       <td>HTML, CSS, JavaScript, React.JS</td>
