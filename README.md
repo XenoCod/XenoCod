@@ -148,7 +148,7 @@
 	<td>⭐</td>
     	</tr>
     	<tr>
-      	<td>School Library</td>
+      	<td><a href="https://xenocod.github.io/School-Library/index.html">School Library</a></td>
       	<td>HTML, CSS, JavaScript</td>
 	<td>A Responsive web library app which keeps the logs of the books issued & return from the library.</td>
 	<td>⭐</td>
@@ -166,7 +166,7 @@
 	<td>⭐⭐</td>
     	</tr>
 	<tr>
-      	<td>News Website</td>
+      	<td><a href="https://xenocod.github.io/News-Website/index.html">News Website</a></td>
       	<td>HTML, CSS, JavaScript</td>
       	<td>A Responsive news website that fetches top news based on the interest entered by the user.</td>
 	<td>⭐⭐</td>
@@ -183,6 +183,12 @@
       <td>A web app where user can make, modify notes with an additional Reminder functionality.</td>
 	<td>⭐⭐</td>
     </tr>
+	  	<tr>
+      <td><a href="https://github.com/XenoCod/To-do-Daily" target="_blank">To-do-Daily</a></td>
+      <td>React, Javascript</td>
+      <td>A responsive to-do list/ Note taking app made with React.</td>
+	<td>⭐⭐</td>
+    </tr>
 	   <tr>
       	<td><a href= "https://xenocod.github.io/Postman-Clone/index.html" target="_blank">Postman Clone</a></td>
       	<td>HTML, CSS, JavaScript</td>
@@ -190,7 +196,7 @@
 	<td>⭐⭐⭐</td>
     	</tr>
     <tr>
-      <td>Emoji app</td>
+      <td><a href= "https://github.com/XenoCod/Emoji-App">Emoji app</a></td>
       <td>HTML, CSS, JavaScript, React.JS</td>
       <td>Helps the user to identify the emoji entered by him.</td>
 	<td>⭐⭐⭐</td>
