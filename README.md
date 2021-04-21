@@ -153,13 +153,19 @@
       	<td>A website which displays the confirmed cases count all over the world.</td>
 	<td>⭐</td>
    	 </tr>
+	     <tr>
+      	<td><a href= "https://xenocod.github.io/JS-Calculator/" target="_blank">Calculator</td>
+      	<td>HTML, CSS, JavaScript</td>
+      	<td>A simple Calculator built using HTML, CSS, JavaScript.</td>
+	<td>⭐</td>
+    	</tr>
 	<tr>
       	<td>Restaurant Website</td>
       	<td>HTML, CSS</td>
       	<td>A simple responsive Landing page for an Restaurent.</td>
 	<td>⭐⭐</td>
     	</tr>
-	 <tr>
+	<tr>
       	<td>News Website</td>
       	<td>HTML, CSS, JavaScript</td>
       	<td>A Responsive news website that fetches top news based on the interest entered by the user.</td>
