@@ -200,6 +200,13 @@
       	<td>A app that is able to process GET and POST requests from the user.</td>
 	<td>⭐⭐⭐</td>
     	</tr>
+	  <tr>
+      <td><a href= "https://github.com/XenoCod/Ball-Blogs/index.html">Ball-Blogs: Blogging website</a></td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>A responsive multipage blogging website made with HTML, CSS, JS.</td>
+	<td>⭐⭐⭐</td>
+    </tr>
+	  
     <tr>
       <td><a href= "https://github.com/XenoCod/Emoji-App">Emoji app</a></td>
       <td>HTML, CSS, JavaScript, React.JS</td>
