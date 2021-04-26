@@ -206,7 +206,6 @@
       <td>A responsive multipage blogging website made with HTML, CSS, JS.</td>
 	<td>⭐⭐⭐</td>
     </tr>
-	  
     <tr>
       <td><a href= "https://github.com/XenoCod/Emoji-App">Emoji app</a></td>
       <td>HTML, CSS, JavaScript, React.JS</td>
