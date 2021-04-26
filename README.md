@@ -201,7 +201,7 @@
 	<td>⭐⭐⭐</td>
     	</tr>
 	  <tr>
-      <td><a href= "https://github.com/XenoCod/Ball-Blogs/index.html">Ball-Blogs: Blogging website</a></td>
+      <td>Ball-Blogs: Blogging website</td>
       <td>HTML, CSS, JavaScript</td>
       <td>A responsive multipage blogging website made with HTML, CSS, JS.</td>
 	<td>⭐⭐⭐</td>
