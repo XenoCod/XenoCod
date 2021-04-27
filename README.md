@@ -201,13 +201,13 @@
 	<td>⭐⭐⭐</td>
     	</tr>
 	  <tr>
-      <td><a href="https://pensive-hoover-8fc663.netlify.app">Ball-Blogs: Blogging website</a></td>
+      <td><a href="https://ballblogs.netlify.app/">Ball-Blogs: Blogging website</a></td>
       <td>HTML, CSS, JavaScript</td>
       <td>A responsive multipage blogging website made with HTML, CSS, JS.</td>
 	<td>⭐⭐⭐</td>
     </tr>
     <tr>
-      <td><a href= "https://jolly-poitras-e53ebe.netlify.app">Emoji app</a></td>
+      <td><a href= "https://youremojiapp.netlify.app/">Emoji app</a></td>
       <td>HTML, CSS, JavaScript, React.JS</td>
       <td>Helps the user to identify the emoji entered by him.</td>
 	<td>⭐⭐⭐</td>
