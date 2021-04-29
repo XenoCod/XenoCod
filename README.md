@@ -235,13 +235,8 @@
 
 	  
 
-<p align="left">
-<h5>A quick laugh 😁</h5>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="300px">
 
-</p>
 
-<br>
 <h5>Thanks for stopping by...</h5>
 <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
