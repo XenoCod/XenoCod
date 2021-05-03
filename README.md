@@ -221,7 +221,7 @@
   <tr>
       <td><a href="https://netflix-clone-71028.web.app/">Netflix Clone</a></td>
       <td>React, JavaScript, Firebase, CSS, TMDB api.</td>
-      <td>A Netflix clone made with React & Redux as a template to maintain the Login/ Logout state of the user. Using Firebase on the backend for User Authentication. Hosted on Firebase Hosting.</td>
+      <td>A Netflix clone made with React & Redux as a template to maintain the Login/ Logout state of the user. Using Firebase on the backend for User Authentication  & Firestore as a database provided by Firebase. Hosted on Firebase Hosting.</td>
 	<td>⭐⭐⭐⭐⭐</td>
     </tr>
   </tbody>
