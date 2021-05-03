@@ -203,7 +203,7 @@
 	  <tr>
       <td><a href="https://ballblogs.netlify.app/">Ball-Blogs: Blogging website</a></td>
       <td>HTML, CSS, JavaScript</td>
-      <td>A responsive multipage blogging website made with HTML, CSS, JS.</td>
+      <td>A responsive multipage blogging website made with HTML, CSS, JS. Made only with HTML, CSS & JS as a challenge which helped me improve my CSS concepts & Design.</td>
 	<td>⭐⭐⭐</td>
     </tr>
     <tr>
