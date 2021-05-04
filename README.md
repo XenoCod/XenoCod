@@ -202,13 +202,7 @@
       	<td>A app that is able to process GET and POST requests from the user.</td>
 	<td>⭐⭐⭐</td>
     	</tr>
-	  <tr>
-      <td><a href="https://ballblogs.netlify.app/">Ball-Blogs: Blogging website</a></td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>A responsive multipage blogging website made with HTML, CSS, JS. Made only with HTML, CSS & JS as a challenge which helped me improve my CSS concepts & Design.</td>
-	<td>⭐⭐⭐</td>
-    </tr>
-    <tr>
+	<tr>
       <td><a href= "https://youremojiapp.netlify.app/">Emoji app</a></td>
       <td>HTML, CSS, JavaScript, React.JS</td>
       <td>Helps the user to identify the emoji entered by him.</td>
@@ -220,10 +214,22 @@
       <td>A fully responsive end-to-end website where a user can browse through the website, open different pages & can apply for admisson in the School. </td>
 	<td>⭐⭐⭐⭐</td>
     </tr>
+	    <tr>
+      <td><a href="https://ballblogs.netlify.app/">Ball-Blogs: Blogging website</a></td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>A responsive multipage blogging website made with HTML, CSS, JS. Made only with HTML, CSS & JS as a challenge which helped me improve my CSS concepts & Design.</td>
+	<td>⭐⭐⭐</td>
+    </tr>
   <tr>
       <td><a href="https://netflix-clone-71028.web.app/">Netflix Clone</a></td>
       <td>React, JavaScript, Firebase, CSS, TMDB api.</td>
       <td>A Netflix clone made with React & Redux as a template to maintain the Login/ Logout state of the user. Using Firebase on the backend for User Authentication  & Firestore as a database provided by Firebase. Hosted on Firebase Hosting.</td>
+	<td>⭐⭐⭐⭐⭐</td>
+    </tr>
+	  <tr>
+      <td><a href="https://channel-opal.vercel.app/">Chanel: A 1v1 Chat Application.</a></td>
+      <td>Next.JS, ReactJS, Material UI, Styled components, Firebase, Firestore.</td>
+      <td>A 1v1 Chat App made wih NextJS & ReactJS powered with Google Authentication by Firebase. The user is able to chat with the recipient EmailId entered & is able to see the recipient's last seen status which is powered by TimeAgo library. It uses Firebase in the backend to make collection of the chat in the Firestore database for each user history. NextJS gives us Static Site Generation as well as Server Side Rendering which makes the components to load up blazingly fast. Deployed on Vercel.</td>
 	<td>⭐⭐⭐⭐⭐</td>
     </tr>
   </tbody>
