@@ -108,12 +108,6 @@
   </thead>
   <tbody>
   	<tr>
-      	<td><b>Full Stack Software Developer</b></td>
-	<td><a href="https://www.cognizant.com/" target="_blank" >Cognizant</a></td>
-      	<td>Building Frontend for Web applications</td>
-      	<td>January 2021 - Present</td>
-    	</tr>
-	<tr>
       	<td><b>Data Analyst Intern</a> </b></td>
 	<td><a href="https://www.highradius.com/" target="_blank" >HighRadius Corporation</a></td>
       	<td>Building Dashboards based on clients data.</td>
