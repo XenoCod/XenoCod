@@ -131,7 +131,7 @@
 </details>
 
 <details>
-<summary><b> My Work Project :point_right:</b></summary>
+<summary><b> My Work Projects :point_right:</b></summary>
 <table>
   <thead>
     <tr>
@@ -226,6 +226,15 @@
       <td>A 1v1 Chat App made wih NextJS & ReactJS powered with Google Authentication by Firebase. The user is able to chat with the recipient EmailId entered & is able to see the recipient's last seen status which is powered by TimeAgo library. It uses Firebase in the backend to make collection of the chat in the Firestore database for each user history. NextJS gives us Static Site Generation as well as Server Side Rendering which makes the components to load up blazingly fast. Deployed on Vercel.</td>
 	<td>⭐⭐⭐⭐⭐</td>
     </tr>
+	    <tr>
+      <td><a href="https://slack-x-c8c12.web.app/">Groupify: A group chat application.</a></td>
+      <td>ReactJS, Material UI, Styled components, Firebase,  Firebase hooks, Firestore.</td>
+      <td>A group chat application where the user can create/ interact with different channels present. It uses Google authentication powered by Firebase. Redux is use to maintain the user Login/ Logout state. Made with Styled components & Material UI. It uses Firestore as a Real-time Database to store various chatID & their messages collections.</td>
+	<td>⭐⭐⭐⭐⭐</td>
+    </tr>
+	  
+	  
+	  
   </tbody>
 </table>
 </details>
