@@ -234,8 +234,8 @@
     </tr>
 <tr>
       <td><a href="https://film-zilla.vercel.app/">FilmZilla: A Movie website.</a></td>
-      <td>ReactJS, NextJS, Tailwind CSS</td>
-      <td>A Responsive movie website made with ReactJS, NextJS & Tailwind CSS. NextJS enables to achieve ServerSide Rendering which inturn makes the website Light & Fast. Images support <b>lazy Loading</b>  for better SEO. Tailwind CSS powers the website to become completely mobile friendly to scalling up for an Full 4k monitor.</td>
+      <td>ReactJS, NextJS, Tailwind CSS, TMDB api</td>
+      <td>A Responsive movie website made with ReactJS, NextJS & Tailwind CSS. NextJS enables to achieve ServerSide Rendering which inturn makes the website Light & Fast. Images support <b>lazy Loading</b>  for better SEO. Tailwind CSS powers the website to become completely mobile friendly to scalling up for an Full 4k monitor.The movie posters are fetched by TMDB api which is a free movie database API. </td>
 	<td>⭐⭐⭐⭐⭐</td>
     </tr>
 	  
