@@ -232,7 +232,12 @@
       <td>A group chat application where the user can create/ interact with different channels present. It uses Google authentication powered by Firebase. Redux is use to maintain the user Login/ Logout state. Made with Styled components & Material UI. It uses Firestore as a Real-time Database to store various chatID & their messages collections.</td>
 	<td>⭐⭐⭐⭐⭐</td>
     </tr>
-	  
+<tr>
+      <td><a href="https://film-zilla.vercel.app/">FilmZilla: A Movie website.</a></td>
+      <td>ReactJS, NextJS, Tailwind CSS</td>
+      <td>A Responsive movie website made with ReactJS, NextJS & Tailwind CSS. NextJS enables to achieve ServerSide Rendering which inturn makes the website Light & Fast. Images support <b>lazy Loading</b>  for better SEO. Tailwind CSS powers the website to become completely mobile friendly to scalling up for an Full 4k monitor.</td>
+	<td>⭐⭐⭐⭐⭐</td>
+    </tr>
 	  
 	  
   </tbody>
