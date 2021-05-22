@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on ***MERN Stack 🚀***
 
-- 🌱 I’m currently learning **Angular, TypeScript, Gatsby.Js, Next.Js & many many more😋...**
+- 🌱 I’m currently learning **Next.Js, Firebase, Redux & many more cool stuff😋...**
 
 - ☁ Exploring **Google Cloud** & **Microsoft Azure**
 
