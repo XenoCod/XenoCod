@@ -107,20 +107,26 @@
 	</tr>
   </thead>
   <tbody>
+	  <tr>
+      	<td><b>Full Stack Developer</b></td>
+	<td><a href="https://www.cognizant.com/" target="_blank" >Cognizant</a></td>
+      	<td>Building Webapps for clients.</td>
+      	<td>Jan 2021 - Present</td>
+    	</tr>
   	<tr>
-      	<td><b>Data Analyst Intern</a> </b></td>
+      	<td><b>Data Analyst Intern</b></td>
 	<td><a href="https://www.highradius.com/" target="_blank" >HighRadius Corporation</a></td>
       	<td>Building Dashboards based on clients data.</td>
       	<td>April 2020 - June 2020</td>
     	</tr>
     	<tr>
-      	<td><b>Data Analyst Intern</a></b></td>
+      	<td><b>Data Analyst Intern</b></td>
 	<td><a href="https://home.kpmg/xx/en/home.html" target="_blank" >KPMG India</a></td>
       	<td>Filtering & building dashboards using Tableau.</td>
       	<td>July 2020 - August 2020</td>
     	</tr>
 	<tr>
-      	<td><b>Expert at Chegg</a> </b></td>
+      	<td><b>Expert at Chegg </b></td>
 	<td><a onclick="window.open(this.href,'_blank');return false;" href="https://www.chegg.com/" >Chegg India</a></td>
       	<td>Solving questions.</td>
       	<td>Dec 2019 - March 2020</td>
