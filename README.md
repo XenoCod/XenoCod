@@ -251,7 +251,7 @@
 </details>
 
 <details>
-<summary><b>Git Stats😎</b></summary>
+<summary><b>Git Stats📈</b></summary>
 <img src='https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=xenocod&theme=tokyonight&hide_langs_below=4' />
 
