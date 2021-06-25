@@ -281,6 +281,6 @@
 
 
 
-<h5>Thanks for stopping by...</h5>
+### Thanks for stopping by...Au revoir <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29px">
 <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
