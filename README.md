@@ -244,9 +244,13 @@
       <td>A Responsive movie website made with ReactJS, NextJS & Tailwind CSS. NextJS enables to achieve ServerSide Rendering which inturn makes the website Light & Fast. Images support <b>lazy Loading</b>  for better SEO. Tailwind CSS powers the website to become completely mobile friendly to scalling up for an Full 4k monitor.The movie posters are fetched by TMDB api which is a free movie database API. </td>
 	<td>⭐⭐⭐⭐⭐</td>
     </tr>
-	  
-	  
-  </tbody>
+<tr>
+      <td><a href="https://facebook-ish.vercel.app/">Facebook-ish: A social media clone.</a></td>
+      <td>ReactJS, NextJS, Tailwind CSS, Facebook authentication</td>
+      <td>A fully responsive social media clone made in NextJS, styled with TailWindCSS. It uses fully secured Facebook Authentication provided by Facebook. User is able to upload posts both as a media and captions or text. Server-Side-rendering is made possible with NextJS which makes the rendering extremely fast. </td>
+	<td>⭐⭐⭐⭐⭐</td>
+    </tr>
+</tbody>
 </table>
 </details>
 
