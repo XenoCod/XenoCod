@@ -5,7 +5,7 @@
 
 <p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms🌟. </p>  
 
-# [Portfolio Website](https://mine-gules.vercel.app/)
+# [Portfolio Website�⭐](https://mine-gules.vercel.app/)
 
 ### [{ My DSA project }](https://github.com/XenoCod/Code-Commit)
 
@@ -234,6 +234,12 @@
       <td>HTML, CSS, JavaScript</td>
       <td>A responsive multipage blogging website made with HTML, CSS, JS. Made only with HTML, CSS & JS as a challenge which helped me improve my CSS concepts & Design.</td>
 	<td>⭐⭐⭐</td>
+    </tr>
+	 <tr>
+      <td><a href="https://mine-gules.vercel.app/">Aditya Singh</a></td>
+      <td>React, ExpressJS</td>
+      <td>Personal Portfolio website made with React, Styled Components, Material UI. Hosted on Vercel.</td>
+	<td>⭐⭐⭐⭐⭐</td>
     </tr>
   <tr>
       <td><a href="https://netflix-clone-71028.web.app/">Netflix Clone</a></td>
