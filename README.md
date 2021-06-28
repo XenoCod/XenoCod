@@ -5,7 +5,7 @@
 
 <p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms🌟. </p>  
 
-# [Portfolio Website⭐](https://mine-gules.vercel.app/)
+# [Portfolio Website⭐](https://adityakrsingh.xyz)
 
 ### [{ My DSA project }](https://github.com/XenoCod/Code-Commit)
 
@@ -236,7 +236,7 @@
 	<td>⭐⭐⭐</td>
     </tr>
 	 <tr>
-      <td><a href="https://mine-gules.vercel.app/">Aditya Singh</a></td>
+      <td><a href="https://adityakrsingh.xyz">Aditya Singh</a></td>
       <td>React, ExpressJS</td>
       <td>Personal Portfolio website made with React, Styled Components, Material UI. Hosted on Vercel.</td>
 	<td>⭐⭐⭐⭐⭐</td>
