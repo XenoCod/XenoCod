@@ -7,7 +7,7 @@
 
 # [Portfolio Website⭐](https://adityakrsingh.xyz)
 
-### [{ My DSA project `in-progress` }](https://github.com/XenoCod/Code-Commit)
+### [{ My DSA project } `in-progress`](https://github.com/XenoCod/Code-Commit)
 
 <img align="right" alt="GIF" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/code.gif" width="500px"/>
 
