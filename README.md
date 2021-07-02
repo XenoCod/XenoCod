@@ -131,7 +131,8 @@
   	<tr>
       	<td><b>Data Analyst Intern</b></td>
 	<td><a href="https://www.highradius.com/" target="_blank" >HighRadius Corporation</a></td>
-      	<td>Building Dashboards based on clients data.</td>
+      	<td>Worked on the development and implementation of new quantitative models in
+orderto stabilize the business and maximize efficiency.</td>
       	<td>April 2020 - June 2020</td>
     	</tr>
     	<tr>
