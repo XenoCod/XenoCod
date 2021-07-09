@@ -272,6 +272,12 @@ orderto stabilize the business and maximize efficiency.</td>
       <td>A fully responsive social media clone made in NextJS, styled with TailWindCSS. It uses fully secured Facebook Authentication provided by Facebook. User is able to upload posts both as a media and captions or text. Server-Side-rendering is made possible with NextJS which makes the rendering extremely fast. </td>
 	<td>⭐⭐⭐⭐⭐</td>
     </tr>
+	  <tr>
+      <td><a href="https://e-commerce-app-lyart.vercel.app/">Amazon Clone: E-commerce App</a></td>
+      <td>NextJS, Stripe API, Tailwind CSS, Firebase, NextAuth</td>
+      <td>A Amazon clone designed with Tailwind CSS, complete E-Commerce functionality including Payment Processing (Stripe API) and User Authentication (Firebase). </td>
+	<td>⭐⭐⭐⭐⭐</td>
+    </tr>
 </tbody>
 </table>
 </details>
