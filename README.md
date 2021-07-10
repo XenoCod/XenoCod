@@ -3,7 +3,7 @@
 # I'm Aditya Singh&nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Hello_Big.gif" width="30px">
 <h3 align="left">🕸️ Full Stack Developer</h3>
 
-<p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms🌟. </p>  
+<p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on improving my Data Structures and Algorithms🌟. </p>  
 
 # [⭐Portfolio Website](https://adityakrsingh.xyz)
 
