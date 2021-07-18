@@ -43,9 +43,9 @@
 </p>
 <p align="left">
 <h5 align="left">🏅 Competative Coding Platforms</h5>
+<a href="https://www.leetcode.com/warrior_spirit" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/warrior_spirit/"   /></a>
 <a href="https://www.codechef.com/users/spy_ker" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/spy_ker"  /></a>
 <a href="https://www.hackerrank.com/adityakrsingh191" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/adityakrsingh191" /></a>
-<a href="https://www.leetcode.com/warrior_spirit" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/warrior_spirit/"   /></a>
 <a href="https://www.hackerearth.com/@adityakrsingh1999" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="http://www.hackerearth.com/@adityakrsingh1999" /></a>
 </p>
 
@@ -283,11 +283,11 @@ orderto stabilize the business and maximize efficiency.</td>
 
 
 
-<img src='https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&theme=tokyonight&count_private=true&line_height=50'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=xenocod&theme=tokyonight&hide_langs_below=4' />
 	
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xenocod&theme=dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=xenocod&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=xenocod&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 
