@@ -38,16 +38,15 @@
 <h3 align="left">📢 Find me elsewhere</h3>
 <p align="left">
 <h5 align="left">🪐 Socials</h5>
-<a href="https://linkedin.com/in/aditya-singh-8430771a8/" target="blank"><img align="center" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/linkedin.svg" alt="https://www.linkedin.com/in/aditya-singh-8430771a8/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ur_new_neighbour/" target="blank"><img align="center" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/instagram.svg" alt="https://www.instagram.com/ur_new_neighbour/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-singh-8430771a8/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aditya-singh-8430771a8/"/></a>
+<a href="https://www.instagram.com/ur_new_neighbour/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/ur_new_neighbour/"  /></a>
 </p>
 <p align="left">
 <h5 align="left">🏅 Competative Coding Platforms</h5>
-<a href="https://www.codechef.com/users/spy_ker" target="blank"><img align="center" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/codechef.svg" alt="https://www.codechef.com/users/spy_ker" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adityakrsingh191" target="blank"><img align="center" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/hackerrank.svg" alt="https://www.hackerrank.com/adityakrsingh191" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fallen_c0der" target="blank"><img align="center" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/codeforces.svg" alt="https://codeforces.com/profile/fallen_c0der" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/warrior_spirit" target="blank"><img align="center" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/leetcode.svg" alt="https://leetcode.com/warrior_spirit/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@adityakrsingh1999" target="blank"><img align="center" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/hackerearth.svg" alt="http://www.hackerearth.com/@adityakrsingh1999" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/spy_ker" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/spy_ker"  /></a>
+<a href="https://www.hackerrank.com/adityakrsingh191" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/adityakrsingh191" /></a>
+<a href="https://www.leetcode.com/warrior_spirit" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/warrior_spirit/"   /></a>
+<a href="https://www.hackerearth.com/@adityakrsingh1999" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="http://www.hackerearth.com/@adityakrsingh1999" /></a>
 </p>
 
 <details>
@@ -282,7 +281,7 @@ orderto stabilize the business and maximize efficiency.</td>
 </table>
 </details>
 
-<details>
+
 <summary><b>Git Stats📈</b></summary>
 <img src='https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=xenocod&theme=tokyonight&hide_langs_below=4' />
@@ -290,7 +289,7 @@ orderto stabilize the business and maximize efficiency.</td>
 [![trophy](https://github-profile-trophy.vercel.app/?username=xenocod&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xenocod&theme=dark)
-</details>
+
 
 	  
 
