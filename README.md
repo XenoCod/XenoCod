@@ -304,6 +304,6 @@ orderto stabilize the business and maximize efficiency.</td>
 
 
 
-### Thanks for stopping by...Au revoir <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29px">
+### Thanks for stopping by.. <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="20px">
 <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
