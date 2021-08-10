@@ -7,6 +7,9 @@
 
 # [⭐Portfolio Website](https://adityakrsingh.xyz)
 
+
+### [👔 Resume](https://drive.google.com/file/d/1x6xBsTnqBvmehkUhho7LSlsZSyUtVB0u/view?usp=sharing) 
+
 ### [📚{ DSA project }](https://github.com/XenoCod/Code-Commit)
 
 <img align="right" alt="GIF" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/code.gif" width="500px"/>
