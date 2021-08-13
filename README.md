@@ -56,7 +56,7 @@
 
 
 </p>
-<h4>
+<h3>
 <details>
 <summary><b>My Tech Stack 👨‍💻  </b></summary>
 	
@@ -118,8 +118,8 @@
 	
 
 </details>
-</h4>
-<h4>
+</h3>
+<h3>
  <details> 
 	 <summary><b> My Work Experience :point_right: </b></summary>
 <table>
@@ -162,8 +162,8 @@ order to stabilize the business and maximize efficiency.</td>
 </table>
 		 
 </details>
-	</h4>
-<h4>
+	</h3>
+<h3>
 <details>
 <summary> My Projects :point_right:</summary>
 <table>
@@ -293,7 +293,7 @@ order to stabilize the business and maximize efficiency.</td>
 </tbody>
 </table>
 </details>
-	</h4>
+	</h3>
 
 
 
