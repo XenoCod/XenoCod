@@ -56,9 +56,10 @@
 
 
 </p>
-
+<h4>
 <details>
-<summary><b> My Tech Stack 👨‍💻 </b></summary>
+<summary><b>My Tech Stack 👨‍💻  </b></summary>
+	
 <p align="left"> 
 	<h3 align="left">Programming Languages</h3>
 	<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="82px" height="52px" padding= "10px"/> </a> 
@@ -114,11 +115,13 @@
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="82px" height="52px" padding= "10px"/> </a> 
 	<hr>
 </p>
+	
 
 </details>
-
-<details>
-<summary><b> My Work Experience :point_right: </b></summary>
+</h4>
+<h4>
+ <details> 
+	 <summary><b> My Work Experience :point_right: </b></summary>
 <table>
   <thead>
     <tr>
@@ -132,14 +135,14 @@
 	  <tr>
       	<td><b>Full Stack Developer</b></td>
 	<td><a href="https://www.cognizant.com/" target="_blank" >Cognizant</a></td>
-      	<td>Building Webapps for clients.</td>
+      	<td>Working on Frontend Technologies using HTML, CSS, MySQL and Backend Technologies using C#, SQL Server and connected to Client end using ASP. Net MVC using Entity Framework.</td>
       	<td>Jan 2021 - Present</td>
     	</tr>
   	<tr>
       	<td><b>Data Analyst Intern</b></td>
 	<td><a href="https://www.highradius.com/" target="_blank" >HighRadius Corporation</a></td>
       	<td>Worked on the development and implementation of new quantitative models in
-orderto stabilize the business and maximize efficiency.</td>
+order to stabilize the business and maximize efficiency.</td>
       	<td>April 2020 - June 2020</td>
     	</tr>
     	<tr>
@@ -157,10 +160,12 @@ orderto stabilize the business and maximize efficiency.</td>
 	
   </tbody>
 </table>
+		 
 </details>
-
+	</h4>
+<h4>
 <details>
-<summary><b> My Work Projects :point_right:</b></summary>
+<summary> My Projects :point_right:</summary>
 <table>
   <thead>
     <tr>
@@ -288,6 +293,7 @@ orderto stabilize the business and maximize efficiency.</td>
 </tbody>
 </table>
 </details>
+	</h4>
 
 
 
