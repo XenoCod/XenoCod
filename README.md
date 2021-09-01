@@ -135,7 +135,7 @@
 	  <tr>
       	<td><b>Full Stack Developer</b></td>
 	<td><a href="https://www.cognizant.com/" target="_blank" >Cognizant</a></td>
-      	<td>Working on Frontend Technologies using HTML, CSS, MySQL and Backend Technologies using C#, SQL Server and connected to Client end using ASP. Net MVC using Entity Framework.</td>
+      	<td>Working on Frontend Technologies using HTML, CSS, JavaScript, MySQL and Backend Technologies using C#, SQL Server and connected to Client end using ASP. Net MVC using Entity Framework.</td>
       	<td>Jan 2021 - Present</td>
     	</tr>
   	<tr>
