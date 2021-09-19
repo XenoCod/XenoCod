@@ -12,7 +12,7 @@
 
 ### [📚{ DSA journey sheet }](https://github.com/XenoCod/Code-Commit)
 
-<img align="right" alt="GIF" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/code.gif" width="500px"/>
+<img align="right" alt="GIF" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/code.gif" width="475px"/>
 
 <h3>🧐 More about me: </h3>
 
