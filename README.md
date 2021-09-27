@@ -18,15 +18,13 @@
 
 - 📚 Currently in ***Final year of B.Tech in Electronics & Electrical Engineering*** from ***KIIT University***, Odisha.(2017 - 2021)
 
-- 🔭 I’m currently working on ***MERN Stack 🚀***
+- 🔭 I’m currently working on ***Java Full Stack 🚀***
 
 - 🌱 I’m currently learning **Next.Js, Firebase, Redux & many more cool stuff😋...**
 
 - ☁ Exploring **Google Cloud** & **AWS**
 
 - 🚀 App development experience in **Android**
-
-- ⏳ Worked as a **Data Analyst** Intern at ***HighRadius Corporation***
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/XenoCod?tab=repositories)
 
