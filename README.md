@@ -53,7 +53,7 @@
 <a href="https://www.hackerearth.com/@adityakrsingh1999" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="http://www.hackerearth.com/@adityakrsingh1999" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityakrsingh1999/practice/" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/adityakrsingh1999/practice/" height="25"  /></a>
 
-### Leetcode stats
+### Leetcode stats 🙇‍♂️
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Warrior_spirit&style=dark&font=&extension=null)
 
 </p>
