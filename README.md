@@ -90,10 +90,6 @@
 	<h3 align="left">Mobile App Development</h3>
 	<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="82px" height="52px" padding= "10px"/> </a> 
 	<hr>
-	<h3 align="left">AI/ML</h3>
-	<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="82px" height="52px" padding= "10px"/> </a> 
-	<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="92px" height="52px" padding= "10px"/> </a> 
-	<hr>
 	<h3 align="left">Database</h3>
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="82px" height="52px" padding= "10px"/> </a> 
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="52"/> </a> 
