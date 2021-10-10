@@ -55,6 +55,8 @@
 ### Leetcode stats 🙇‍♂️
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Warrior_spirit&style=dark&font=&extension=null)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=xenocod&theme=dark)
+
 </p>
 <h3>
 <details>
@@ -295,7 +297,7 @@ order to stabilize the business and maximize efficiency.</td>
 <img src='https://github-readme-stats.vercel.app/api?username=xenocod&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=xenocod&theme=tokyonight&hide_langs_below=4' />
 	
-![](https://github-readme-streak-stats.herokuapp.com/?user=xenocod&theme=dark)
+
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=xenocod&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
