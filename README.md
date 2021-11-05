@@ -17,7 +17,9 @@
 
 <h3>🧐 More about me: </h3>
 
-- 📚 Currently in ***Final year of B.Tech in Electronics & Electrical Engineering*** from ***KIIT University***, Odisha.(2017 - 2021)
+- 👔 Currently working as SDE-1 at ***Epam Systems, Hyderabad***.
+
+- 📚 Graduated from ***KIIT University***, Odisha.(2017 - 2021)
 
 - 🔭 I’m currently working on ***Java Full Stack 🚀***
 
