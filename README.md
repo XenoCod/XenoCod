@@ -130,6 +130,12 @@
 	</tr>
   </thead>
   <tbody>
+	<tr>
+      	<td><b>SDE 1</b></td>
+	<td><a href="https://www.epam.com/" target="_blank" >Epam Systems</a></td>
+      	<td>Building software on Java stack</td>
+      	<td>Nov 2021 - Present</td>
+    	</tr>
   	<tr>
       	<td><b>Data Analyst Intern</b></td>
 	<td><a href="https://www.highradius.com/" target="_blank" >HighRadius Corporation</a></td>
