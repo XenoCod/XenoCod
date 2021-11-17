@@ -27,8 +27,6 @@
 
 - ☁ Exploring **Google Cloud** & **AWS**
 
-- 🚀 App development experience in **Android**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/XenoCod?tab=repositories)
 
 - 💬 Ask me about **Football ⚽, Fifa 🕹 & Man United 😈**
