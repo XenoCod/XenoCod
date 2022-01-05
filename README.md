@@ -52,7 +52,7 @@
 <a href="https://auth.geeksforgeeks.org/user/adityakrsingh1999/practice/" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/adityakrsingh1999/practice/" height="25"  /></a>
 
 ### Leetcode stats 🙇‍♂️
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=Warrior_spirit&style=dark&font=&extension=null)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Warrior_spirit&theme=dark&extension=activity)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xenocod&theme=dark)
 
