@@ -17,7 +17,7 @@
 
 <h3>🧐 More about me: </h3>
 
-- 👔 Currently working as SDE-1 at ***Epam Systems, Hyderabad***.
+- 👔 Currently working as SDE-1 at ***Swiggy, Bangalore***.
 
 - 📚 Graduated from ***KIIT University***, Odisha.(2017 - 2021)
 
@@ -130,9 +130,16 @@
   <tbody>
 	<tr>
       	<td><b>SDE 1</b></td>
+	<td><a href="https://www.swiggy.com/" target="_blank" >Swiggy</a></td>
+      	<td>Building Swiggy Instamart</td>
+      	<td>Mar 2022 - Present</td>
+    	</tr>
+  	<tr>
+	<tr>
+      	<td><b>SDE 1</b></td>
 	<td><a href="https://www.epam.com/" target="_blank" >Epam Systems</a></td>
       	<td>Building software on Java stack</td>
-      	<td>Nov 2021 - Present</td>
+      	<td>Nov 2021 - March 2022</td>
     	</tr>
   	<tr>
       	<td><b>Data Analyst Intern</b></td>
