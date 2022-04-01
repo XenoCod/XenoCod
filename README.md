@@ -21,9 +21,7 @@
 
 - 📚 Graduated from ***KIIT University***, Odisha.(2017 - 2021)
 
-- 🔭 I’m currently working on ***Java Full Stack 🚀***
-
-- 🌱 I’m currently learning **Next.Js, Firebase, Redux & many more cool stuff😋...**
+- 🔭 I’m currently working on ***GoLang & Java🚀***
 
 - ☁ Exploring **Google Cloud** & **AWS**
 
