@@ -44,7 +44,7 @@
 </p>
 <p align="left">
 <h5 align="left">🏅 Competative Coding Platforms</h5>
-<a href="https://www.leetcode.com/warrior_spirit" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/warrior_spirit/"   /></a>
+<a href="https://www.leetcode.com/war_hammer" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/warrior_spirit/"   /></a>
 <a href="https://www.codechef.com/users/spy_ker" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/spy_ker"  /></a>
 <a href="https://www.hackerrank.com/adityakrsingh191" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/adityakrsingh191" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityakrsingh1999/practice/" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/adityakrsingh1999/practice/" height="25"  /></a>
