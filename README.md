@@ -1,7 +1,7 @@
 
-### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Earth.gif" width="24px">
-# I'm Aditya Singh&nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Hello_Big.gif" width="30px">
-<h3 align="left">🕸️ Software development Engineer</h3>
+<!-- ### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Earth.gif" width="24px"> -->
+# I'm Aditya Singh&nbsp;
+<h3 align="left">🕸️ Software development Engineer 1 @ Swiggy</h3>
 
 <p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Software Development 🕸️ and working on improving my Data Structures and Algorithms🌟. </p>  
 
