@@ -1,5 +1,5 @@
 
-<!-- ### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Earth.gif" width="24px"> -->
+### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29" height="29"> **Hello world!** &nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Earth.gif" width="24" height="24">
 # I'm Aditya Singh&nbsp;
 <h3 align="left">🕸️ Software development Engineer 1 @ Swiggy</h3>
 
@@ -13,7 +13,7 @@
 ### [📚{ DSA journey sheet }](https://github.com/XenoCod/Code-Commit)
 
 
-<img align="right" alt="GIF" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/code.gif" width="475px"/>
+<img align="right" alt="GIF" src="https://github.com/XenoCod/XenoCod/blob/main/gifs/code.gif"  width="500" height="320"/>
 
 <h3>🧐 More about me: </h3>
 
@@ -303,6 +303,6 @@ order to stabilize the business and maximize efficiency.</td>
 <br/>
 	
 
-### Thanks for stopping by.. <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="20px">
+### Thanks for stopping by.. <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif"  width="30" height="30">
 <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
