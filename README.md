@@ -5,7 +5,7 @@
 
 <p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Software Development 🕸️ and working on improving my Data Structures and Algorithms🌟. </p>  
 
-# [⭐Portfolio ](https://adityakrsingh.xyz)
+# [⭐Portfolio ](https://adityakrsingh.info)
 
 
 ### [👔 Resume](https://drive.google.com/file/d/1x6xBsTnqBvmehkUhho7LSlsZSyUtVB0u/view?usp=sharing) 
