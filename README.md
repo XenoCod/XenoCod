@@ -135,7 +135,7 @@
   	<tr>
 	<tr>
       	<td><b>SDE 1</b></td>
-	<td><a href="https://www.epam.com/" target="_blank" >Epam Systems</a></td>
+	<td><a href="https://www.mastercard.com/" target="_blank" >MasterCard</a></td>
       	<td>Building software on Java stack</td>
       	<td>Nov 2021 - March 2022</td>
     	</tr>
